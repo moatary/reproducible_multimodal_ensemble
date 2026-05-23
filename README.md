@@ -10,9 +10,8 @@
 > @article{moattari2025interpretable,
 >   title   = {Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles},
 >   author  = {Moattari, Mojtaba},
->   journal = {Information (MDPI)},
->   year    = {2025},
->   note    = {Preprint: arXiv:2501.48291}
+>   year    = {2026},
+>   note    = {Preprint: arXiv}
 > }
 > ```
 
